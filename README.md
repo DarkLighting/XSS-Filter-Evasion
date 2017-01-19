@@ -1,4 +1,4 @@
-# WAF XSS Filter Evasion
+# XSS Filter Evasion techniques
 
 This is a collection of documents and links on XSS filter evasion techniques
 
